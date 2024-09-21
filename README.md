@@ -115,9 +115,9 @@ A curated list of awesome cultural NLP resources, inspired by [awesome-computer-
 ### LLMs
 | Title                                       | Conference / Journal | Paper                                     | Code                                        | Remarks   |
 | ------------------------------------------- | ---------- | ----------------------------------------- | ------------------------------------------- |-----------|
+| "A Woman is More Culturally Knowledgeable than A Man?": The Effect of Personas on Cultural Norm Interpretation in LLMs | Arxiv 2024 | [2409.11636](https://arxiv.org/abs/2409.11636) | []() | []() |
 | The Echoes of Multilinguality: Tracing Cultural Value Shifts during LM Fine-tuning | ACL 2024 | [2405.12744](https://arxiv.org/pdf/2405.12744) | []() | []() |
-| Exploring Changes in Nation Perception with Nationality-Assigned
-Personas in LLMs | Arxiv 2024 | [2406.13993](https://arxiv.org/pdf/2406.13993) | []() | []() |
+| Exploring Changes in Nation Perception with Nationality-Assigned Personas in LLMs | Arxiv 2024 | [2406.13993](https://arxiv.org/pdf/2406.13993) | []() | []() |
 | CULTURE-GEN: Revealing Global Cultural Perception in Language Models through Natural Language Prompting | Arxiv 2024 | [2404.10199v1](https://arxiv.org/abs/2404.10199v1) | [Code](https://github.com/huihanlhh/Culture-Gen/) | []() |
 | Knowledge of cultural moral norms in large language models | ACL 2023 | [2306.01857](https://arxiv.org/abs/2306.01857) | []() | []() |
 | Multilingual Language Models are not Multicultural: A Case Study in Emotion | WASSA: ACL 2023 | [2307.01370](https://arxiv.org/abs/2307.01370) | []() | []() |
